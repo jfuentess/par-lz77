@@ -11,8 +11,7 @@ bash build.sh
 ### Dependencies
 
 * [Succinct Data Structure Library](https://github.com/simongog/sdsl-lite/)
-* [LZ77 factorization
-* algorithms](https://www.cs.helsinki.fi/group/pads/lz77.html), more precisely the [kpp algorithm](http://www.cs.helsinki.fi/group/pads/software/LZ77/kkp/kkp.tar.bz2)
+* [LZ77 factorization algorithms](https://www.cs.helsinki.fi/group/pads/lz77.html), more precisely the [kpp algorithm](http://www.cs.helsinki.fi/group/pads/software/LZ77/kkp/kkp.tar.bz2)
 
 
 ### Authors
